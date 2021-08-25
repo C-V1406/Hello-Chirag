@@ -3,3 +3,4 @@ IOT STANDS for 'internet of things'.
 for a device to be smart iot thing it should have two things:-
 1>it should be connected to some network.
 2>it should have its unique ip  address.
+more to come
